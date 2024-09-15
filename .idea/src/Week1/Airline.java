@@ -1,4 +1,4 @@
-// Задача 2: Классы Airline и Flight
+// Задача 2: Классы Airline и Flight1
 package Week1;
 import java.util.ArrayList;
 import java.util.List;
