@@ -1,4 +1,0 @@
-Hello, world!
-This is my text file.
-Hello, world!
-This is my text file.
