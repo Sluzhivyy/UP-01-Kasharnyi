@@ -1,0 +1,14 @@
+#include <iostream>
+// Процедура Padd, реализующая оператор x := x - a
+void Padd(int *x, int a) {
+  *x -= a;
+}
+int main() {
+  int x = 10;
+  int a = 3;
+  std::cout << "x перед вызовом Padd: " << x << std::endl;
+  // Вызов процедуры Padd
+  Padd(&x, a);
+  std::cout << "x после вызова Padd: " << x << std::endl;
+  return 0;
+}
